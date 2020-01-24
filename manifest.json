@@ -1,0 +1,36 @@
+
+{
+
+  "short_name": "Tulio",
+  "name": "Tulio",
+  "theme_color": "#311D38",
+  "background_color": "#311D38",
+  "display": "standalone",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/img/ico/32.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "/img/ico/60.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "/img/ico/72.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/img/ico/152.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "//"
+
+
+}
+
